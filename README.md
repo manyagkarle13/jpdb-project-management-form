@@ -62,3 +62,13 @@ PROJECT-TABLE
 ## Author
 
 Manya G Karle
+
+## Screenshots
+
+### Project Form
+
+![Form Screenshot](form-screenshot.png.png)
+
+### Database Records
+
+![Database Screenshot](database-screenshot.png.png)
